@@ -1,0 +1,19 @@
+# Compiled output
+*.exe
+*.obj
+*.pdb
+x64/
+Debug/
+Release/
+
+# SFML DLLs (users install SFML separately)
+*.dll
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
